@@ -27,6 +27,7 @@ body {
   align-items: end;
   justify-content: center;
   flex-flow: column wrap;
+  background:#4AADA2;
 }
 
 .logo {
@@ -44,7 +45,7 @@ body {
 }
 
 .logo img {
-  width: var(--logo-width);
+  width: 130px;
 }
 
 .wrapper {
